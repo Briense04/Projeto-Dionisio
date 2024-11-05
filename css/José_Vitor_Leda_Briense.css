@@ -1,0 +1,50 @@
+*{
+    background-color: var(--color_04);
+}
+
+:root{
+    --color_01: #eadada;
+    --color_02: #d59dc5;
+    --color_03: #bf5caa;
+    --color_04: #4d3a4d; 
+}
+body{
+    background-color: var(--color_04);
+}
+.logo{
+    width: 100px;
+    border-radius: 100%;
+}
+.fundo{
+    background-color: var(--color_04);
+}
+.imagem{
+    width: 190px;
+    border-radius: 100%;
+}
+.display-5{
+    color: var(--color_01);
+}
+p{
+ color: var(--color_02);
+}
+.carousel-caption {
+    color: #da10da00;
+}
+.nav-link1 {
+    color: var(--color_01);
+    text-decoration: none;
+}
+.nav-link1 :hover{
+    color: var(--color_01);
+}
+.nav-link2{
+    color: var(--color_01);
+    text-decoration: none;
+}
+.nav-link2:hover{
+    color: var(--color_01);
+}
+p{
+    color: var(--color_01);
+}
