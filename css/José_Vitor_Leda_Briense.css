@@ -48,3 +48,56 @@ p{
 p{
     color: var(--color_01);
 }
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: transparent; 
+  border: none; 
+}
+.carousel-control-prev-icon:before,
+.carousel-control-next-icon:before {
+  color: #000; 
+  font-size: 30px; 
+}
+.carousel-indicators {
+    background-color: transparent;
+    border: none;
+}
+.carouselExampleIndicators {
+    bottom: 60px;
+    border-top: 60px;
+}
+.link{
+    color: red;
+}
+.card{
+ height: 573px;   
+}
+
+.btn {
+    position: absolute;
+        bottom: 15px;
+       
+}
+
+.nav-link1{
+    font-size:40px;
+    margin-right:50px;
+}
+.card1{
+    height: 40px;
+}
+.card2{
+    height: 80px;
+    border: white solid;
+    width: 10000px;
+}
+.img-fluid{
+    width: 75%;
+    display: block;    
+    margin: 0 auto; 
+}
+.img-fluid2{
+    width: 85%;
+    display: block;    
+    margin: 0 auto;
+}
