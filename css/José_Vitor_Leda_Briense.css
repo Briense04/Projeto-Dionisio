@@ -69,12 +69,12 @@ p{
 .link{
     color: red;
 }
-.card{
+ /* .card{
  height: 573px;   
-}
+}  */
 
 .btn {
-    position: absolute;
+    /* position: absolute; */
         bottom: 15px;
        
 }
@@ -100,4 +100,22 @@ p{
     width: 85%;
     display: block;    
     margin: 0 auto;
+}
+.card-title{
+    color: var(--color_03);
+}
+.card-text{
+    color: var(--color_01);
+}
+.paginas{
+    color: var(--color_03);
+}
+.paginas1{
+    color: var(--color_01);
+}
+.alinhamento{
+    display: flex;
+}
+.p{
+    color: var(--color_03);
 }
